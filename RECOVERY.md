@@ -1,2 +1,2 @@
-Last checkpoint: clean static Railway-ready site repo prepared
-Next: push to GitHub after authorization, then deploy to Railway after Railway token/login is connected.
+Last checkpoint: static server fixed so separate legal URLs serve their own files
+Next: redeploy and verify live page markers.
